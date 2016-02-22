@@ -5,6 +5,9 @@
 Introduction
 ------------
 
+DBmaestro TeamWork, the leading DevOps for Database solution, offers integration with CA Release Automation. CA Release Automation helps companies address some of their most critical DevOps challenges by providing a continuous delivery solution that helps improve visibility across the enterprise’s deployment chain.
+
+DBmaestro TeamWork integrates with CA Release Automation by enhancing it with the required functionality that includes database build & deployment tasks.
 
 
 Requirements
