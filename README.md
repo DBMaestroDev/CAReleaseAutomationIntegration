@@ -1,4 +1,4 @@
-http://www.dbmaestro.com/wp-content/uploads/2013/02/main-logo1.png
+![DBmaestro logo](http://www.dbmaestro.com/wp-content/uploads/2013/02/main-logo1.png)
 
 # DBmaestro CA Release Automation Integration
 
