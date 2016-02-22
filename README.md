@@ -9,12 +9,6 @@ DBmaestro TeamWork, the leading DevOps for Database solution, offers integration
 
 DBmaestro TeamWork integrates with CA Release Automation by enhancing it with the required functionality that includes database build & deployment tasks.
 
-
-Requirements
-------------
-
-
-
 Installation
 ------------
 
@@ -28,13 +22,6 @@ Installation
 8. Wait for process to complete.
 9. Action pack should now be installed for your use.
 
-
-
-Configuration
--------------
-
-
-
 Troubleshooting
 ---------------
 
@@ -47,11 +34,6 @@ Troubleshooting
 * Can't run twice actions because we will get error: Label already exists.There is no Dinamyc parameters
 
 * For optional fields, values with spaces must be surrounded with quotation marks. for example: "this is a field value".
-
-
-FAQ
----
-
 
 
 
