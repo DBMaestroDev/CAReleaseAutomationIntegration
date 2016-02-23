@@ -25,8 +25,8 @@ Installation
 Troubleshooting
 ---------------
 
-* If you get Timeout from Nolio side
-	- please check the timeout on Nolio
+* If you get Timeout from the extension
+	- please check the timeout on Release Automation
 	- you can go to settings and uncheck Pause in failure, but please note that it will continue also on real failures
 
 * Note that 'DBMS' field is not in use
@@ -40,6 +40,6 @@ Troubleshooting
 Maintainers
 ------------
 
-DBMaestro development team. For any issue please visit: http://www.dbmaestro.com/support/contact-support/
+DBmaestro development team. For any issue please visit: http://www.dbmaestro.com/support/contact-support/
 
 
