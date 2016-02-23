@@ -25,8 +25,8 @@ Installation
 Troubleshooting
 ---------------
 
-* If you get Timeout from release manager
-	- please check the timeout on the release manager
+* If you get Timeout from extension
+	- please check the timeout on the Release Automation
 	- you can go to settings and uncheck Pause in failure, but please note that it will continue also on real failures
 
 * Note that 'DBMS' field is not in use
