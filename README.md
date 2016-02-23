@@ -25,7 +25,7 @@ Installation
 Troubleshooting
 ---------------
 
-* If you get Timeout from extension
+* If you get Timeout from the extension
 	- please check the timeout on the Release Automation
 	- you can go to settings and uncheck Pause in failure, but please note that it will continue also on real failures
 
