@@ -25,13 +25,7 @@ Installation
 Troubleshooting
 ---------------
 
-* If you get Timeout from the extension
-	- please check the timeout on Release Automation
-	- you can go to settings and uncheck Pause in failure, but please note that it will continue also on real failures
-
 * Note that 'DBMS' field is not in use
-
-* Can't run twice actions because we will get error: Label already exists.There is no Dinamyc parameters
 
 * For optional fields, values with spaces must be surrounded with quotation marks. for example: "this is a field value".
 
